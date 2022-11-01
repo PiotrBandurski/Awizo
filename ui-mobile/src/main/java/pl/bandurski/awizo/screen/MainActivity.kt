@@ -1,4 +1,4 @@
-package pl.bandurski.awizo
+package pl.bandurski.awizo.screen
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

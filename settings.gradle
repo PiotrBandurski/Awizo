@@ -16,3 +16,4 @@ rootProject.name = "Awizo"
 include ':ui-mobile'
 include ':domain'
 include ':ui-wear'
+include ':ui-common'
